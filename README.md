@@ -18,7 +18,7 @@ The report and answer four sets of questions:
 **Q3:** On Each Country , Which genre has the highest sale (Display the Total sale)?
 **Q4:** Which Employee has the Highest sales?
 
-## [SQL](https://en.wikipedia.org/wiki/SQL) Skills has been used:
+## Using the following [SQL](https://en.wikipedia.org/wiki/SQL) Skills:
 1- [JOIN](https://www.w3schools.com/sql/sql_join.asp) statments
 
 2- [Sub Queries](https://docs.microsoft.com/en-us/sql/relational-databases/performance/subqueries?view=sql-server-ver15)
