@@ -13,9 +13,13 @@ Quering an online music store database using [SQL](https://en.wikipedia.org/wiki
 
 ## The Insights in question:
 The report and answer four sets of questions:
+
 **Q1:** Find the Most orderd MediaType, In which Country does it have the Highest sales?
+
 **Q2:** Which genre has the Highest sale?
+
 **Q3:** On Each Country , Which genre has the highest sale (Display the Total sale)?
+
 **Q4:** Which Employee has the Highest sales?
 
 ## Using the following [SQL](https://en.wikipedia.org/wiki/SQL) Skills:
