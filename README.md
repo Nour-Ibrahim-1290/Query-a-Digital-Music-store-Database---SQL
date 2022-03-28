@@ -1,6 +1,6 @@
 # Query-a-Digital-Music-store-Database---SQL
 
-Quering an online music store database using SQL (part of 3rd stage of [Data Analysis Nanodegree](https://egfwd.com/specializtion/data-analysis-advanced/) powered by [Udacity](https://www.udacity.com/)
+Quering an online music store database using [SQL](https://en.wikipedia.org/wiki/SQL) (part of 3rd stage of [Data Analysis Nanodegree](https://egfwd.com/specializtion/data-analysis-advanced/) powered by [Udacity](https://www.udacity.com/)
 
 ## Files:
 
